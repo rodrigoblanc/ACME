@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RedBell</string>
+    <string name="get_location">Pedir Ubicación</string>
+    <string name="send_location">Enviar Ubicación</string>
+    <string name="get_contact">Seleccionar Contacto</string>
+    <string name="no_number">Número no disponible</string>
+    <string name="no_name">Nombre de contacto no diponible</string>
+    <string name="add_favourite">Añadir a favoritos</string>
+</resources>

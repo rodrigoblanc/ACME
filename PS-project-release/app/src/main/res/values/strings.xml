@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RedBell</string>
+    <string name="get_location">Get Location</string>
+    <string name="send_location">Send Location</string>
+    <string name="get_contact">Get Contact</string>
+    <string name="no_number">No phone number attached</string>
+    <string name="no_name">No contact name attached</string>
+    <string name="add_favourite">Add to Favourites</string>
+</resources>
